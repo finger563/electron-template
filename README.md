@@ -1,0 +1,27 @@
+Electron App Template
+=====================
+
+This is a simple app template that successfully includes jQuery and materialize-css for cool JS, HTML, CSS desktop apps
+
+* JQuery
+
+* Materialize-CSS
+
+Getting Started
+---------------
+
+```bash
+$ git clone https://pranav-srinivas-kumar/electron-template
+$ cd electron-template
+$ npm install electron
+$ .\node_modules\.bin\electron .
+```
+
+Materialize.js Components:
+-------------------------
+![Alt text](https://github.com/pranav-srinivas-kumar/electron-template/blob/master/screenshots/01.png?raw=true "Materialize Components")
+
+Functional Side bar:
+-------------------
+![Alt text](https://github.com/pranav-srinivas-kumar/electron-template/blob/master/screenshots/02.png?raw=true "Functional Side bar")
+
