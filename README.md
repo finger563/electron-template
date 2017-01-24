@@ -25,3 +25,7 @@ Functional Side bar:
 -------------------
 ![Alt text](https://github.com/pranav-srinivas-kumar/electron-template/blob/master/screenshots/02.png?raw=true "Functional Side bar")
 
+D3JS Integration:
+----------------
+![Alt text](https://github.com/pranav-srinivas-kumar/electron-template/blob/master/screenshots/03.png?raw=true "Sample D3JS Graph")
+
