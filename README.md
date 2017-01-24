@@ -7,6 +7,8 @@ This is a simple app template that successfully includes jQuery and materialize-
 
 * Materialize-CSS
 
+* D3JS
+
 Getting Started
 ---------------
 
