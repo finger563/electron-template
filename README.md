@@ -1,7 +1,7 @@
 Electron App Template
 =====================
 
-This is a simple app template that successfully includes jQuery and materialize-css for cool JS, HTML, CSS desktop apps
+This is a simple app template that successfully includes JQuery, Materialize-CSS, and D3JS for cool JS, HTML, CSS desktop apps
 
 * JQuery
 
